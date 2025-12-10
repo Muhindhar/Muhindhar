@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhindhar S V 🙋🏻‍♂️
 
 ## 🚀 About Me
-Aspiring Embedded Engineer | Skilled in C, C++, Core Java | Problem Solver | Tech Enthusiast  
+Aspiring Embedded Engineer | Skilled in C, Core Java | Problem Solver | Tech Enthusiast  
 Final Year @ Knowledge Institute of Technology |  
 
 📍 Salem, India  
