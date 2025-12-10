@@ -7,7 +7,7 @@ Final Year @ Knowledge Institute of Technology |
 📍 Salem, India  
 📧 muhindharsv27@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhindhar-s-v-13151620b)
-🔗 [UI/UX Portfolio]((https://muhindharsv.lovable.app/))
+🔗 [UI/UX Portfolio](https://muhindharsv.lovable.app/)
 
 ---
 
