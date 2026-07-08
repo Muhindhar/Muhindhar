@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 Aspiring Embedded Engineer | Skilled in C, Core Java | Problem Solver | Tech Enthusiast  
-@ Knowledge Institute of Technology |  
 
 📍 Salem, India  
 📧 muhindharsv27@gmail.com  
