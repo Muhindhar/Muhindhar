@@ -27,6 +27,66 @@ C Programming · Firmware & Embedded Systems · Digital Electronics  · Ui/Ux De
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+<!-- ======================= -->
+<!-- 🧪 TESTING & AUTOMATION -->
+<!-- ======================= -->
+
+<h2 align="center">🧪 Testing & Automation</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Manual+Testing+%7C+Automation+Testing;Playwright+%7C+Selenium+%7C+Cucumber;API+Testing+%7C+Performance+Testing;JMeter+%7C+Postman+%7C+Jenkins" />
+
+</div>
+
+<br>
+
+### 🔥 Automation Testing
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/POM-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BDD-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cross--Browser-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data--Driven-0984E3?style=for-the-badge"/>
+
+</p>
+
+```text
+🎯 Web Automation
+   ├── Playwright
+   ├── Selenium WebDriver
+   ├── Locators & Assertions
+   ├── Page Object Model
+   ├── Test Hooks
+   ├── Cross-Browser Testing
+   └── Screenshot & Failure Handling
+
+🥒 BDD Automation
+   ├── Cucumber
+   ├── Gherkin
+   ├── Feature Files
+   ├── Step Definitions
+   └── Custom World
+
+⚙️ Test Execution
+   ├── Environment Configuration
+   ├── Parameterization
+   ├── Test Reports
+   └── CI/CD Integration
+
+### UI/UX Design
+
 ###
 
 <br clear="both">
