@@ -84,7 +84,7 @@ C Programming · Firmware & Embedded Systems · Digital Electronics  · Ui/Ux De
    ├── Parameterization
    ├── Test Reports
    └── CI/CD Integration
-
+```
 ### UI/UX Design
 
 ###
