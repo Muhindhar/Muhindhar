@@ -18,7 +18,7 @@ Aspiring Embedded Engineer | Skilled in C, Core Java | Problem Solver | Tech Ent
 
 
 ### Area of Interest
-C Programming · Firmware & Embedded Systems · Digital Electronics  · Ui/Ux Design
+Automation Testing · Performance Testing · Quality Assurance  · Ui/Ux Design
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
